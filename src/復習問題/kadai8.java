@@ -1,3 +1,5 @@
+package 復習問題;
+
 public class kadai8 {
     public static void main(String[] args) {
         int a = 10;
