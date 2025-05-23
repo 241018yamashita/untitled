@@ -1,4 +1,4 @@
-package 復習問題;
+package pack.reviews1;
 
 public class kadai7 {
     public static void main(String[] args) {
