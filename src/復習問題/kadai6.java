@@ -1,3 +1,5 @@
+package 復習問題;
+
 public class kadai6 {
     public static void main(String[] args) {
         System.out.println(105 + 5);

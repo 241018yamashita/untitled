@@ -1,3 +1,5 @@
+package 復習問題;
+
 public class kadai3 {
     public static void main(String[] args) {
         System.out.println(10 - 7 * 2 + "7" + 5 * -10);

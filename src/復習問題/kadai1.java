@@ -1,3 +1,5 @@
+package 復習問題;
+
 public class kadai1 {
     public static void main(String[] args) {
         System.out.print("こんにちは。\n");

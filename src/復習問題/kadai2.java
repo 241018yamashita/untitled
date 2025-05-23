@@ -1,3 +1,5 @@
+package 復習問題;
+
 public class kadai2 {
     public static void main(String[] args) {
 
