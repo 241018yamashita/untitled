@@ -5,7 +5,7 @@ public class kadai16 {
         int num = 10;
         int sum = 0;
         int i = 1;
-        while (i < num) {
+        while (i <= num) {
             sum = sum + i;
             i++;
         }
